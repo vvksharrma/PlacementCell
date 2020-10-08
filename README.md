@@ -1,7 +1,4 @@
  :computer:	 :computer:	:computer:	 :computer:	:computer:	
-[![Forks][forks-shield]][forks-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 # Training & Placement cell
 <p align="center">
 
@@ -45,3 +42,6 @@ This section should list any major frameworks that you built your project using.
 ![recruiter](https://github.com/vvksharrma/PlacementCell/blob/main/recruiterinfo.png)
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
+:computer: :fire: :happy: :dancing:
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/vivek-sharma-b60782147/]
