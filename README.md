@@ -1,4 +1,5 @@
- :computer:	 :computer:	:computer:	 :computer:	:computer:	
+ :computer:	 :computer:	:computer:	 :computer:	:computer:	:computer:
+ :computer:  :computer: :computer:  :computer: :computer: :computer:
 # Training & Placement cell
 <p align="center">
 
@@ -15,37 +16,37 @@ This section should list any major frameworks that you built your project using.
 * [PHP]
  :computer:	 :computer:	:computer:	 :computer:	:computer:	
 
-Here is the screenshots of the project :point_down::point_down::point_down:
+### Here is the screenshots of the project :point_down::point_down::point_down:
 :point_down::point_down::point_down::point_down::point_down::point_down:
 ![homepage](https://github.com/vvksharrma/PlacementCell/blob/main/hometnp.png)
 
 ### Registration and login
-:point_down::point_down:
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 
 ![Registration](https://github.com/vvksharrma/PlacementCell/blob/main/registertnp.png)
 
 ### login 
-:point_down::point_down:
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 
 ![login](https://github.com/vvksharrma/PlacementCell/blob/main/login.png)
 
 ### Jobs
-:point_down::point_down:
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 
 ![jobs](https://github.com/vvksharrma/PlacementCell/blob/main/jobs.png)
 
 ### Contact
-:point_down::point_down:
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 
 ![contact](https://github.com/vvksharrma/PlacementCell/blob/main/contacttnp.png)
 
 ### Student form
-:point_down::point_down:
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 
 ![student](https://github.com/vvksharrma/PlacementCell/blob/main/studentinfo.png)
 
 ### Recruiter form
-:point_down::point_down:
+:point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down::point_down:
 
 ![recruiter](https://github.com/vvksharrma/PlacementCell/blob/main/recruiterinfo.png)
 
